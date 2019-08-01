@@ -2,6 +2,8 @@
 
 <p align="center">naturecodevoid's <a href="https://prettier.io/">Prettier</a> Config
 
+<p align="center"><a href="https://github.com/naturecodevoid/nature-prettier-config/blob/master/LICENSE"><img src="https://img.shields.io/github/license/naturecodevoid/nature-prettier-config?style=flat-square"></a> <a href="https://www.npmjs.com/package/nature-prettier-config"><img src="https://img.shields.io/npm/v/nature-prettier-config?style=flat-square"></a></p>
+
 <h2 align="center">Usage</h2>
 
 Install:
