@@ -1,8 +1,8 @@
 {
     "name": "nature-prettier-config",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "naturecodevoid's Prettier Config",
-    "main": "prettier.config.js",
+    "main": "index.js",
     "scripts": {
         "test": "cd ./test && prettier --config ./prettier.config.test.js ./main.test.js"
     },
