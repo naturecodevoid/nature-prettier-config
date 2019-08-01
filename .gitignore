@@ -1,0 +1,6 @@
+.DS_Store
+[Dd]esktop.ini
+node_modules
+node_modules/
+node_modules/*
+package-lock.json

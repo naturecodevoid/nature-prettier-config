@@ -1,0 +1,22 @@
+{
+    "name": "nature-prettier-config",
+    "version": "1.0.0",
+    "description": "naturecodevoid's Prettier Config",
+    "main": "prettier.config.js",
+    "scripts": {
+        "test": "cd ./test && prettier --config ./prettier.config.test.js ./main.test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/naturecodevoid/nature-prettier-config.git"
+    },
+    "author": "naturecodevoid@GitHub, naturecodevoid#6253@Discord",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/naturecodevoid/nature-prettier-config/issues"
+    },
+    "homepage": "https://github.com/naturecodevoid/nature-prettier-config#readme",
+    "dependencies": {
+        "prettier": "^1.18.2"
+    }
+}
