@@ -9,7 +9,7 @@
 Install:
 
 ```shell
-$ npm install nature-prettier-config
+$ npm install --save-dev nature-prettier-config
 ```
 
 Edit `prettier.config.js`:
