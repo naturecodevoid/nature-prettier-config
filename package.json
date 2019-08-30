@@ -1,6 +1,6 @@
 {
     "name": "nature-prettier-config",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "naturecodevoid's Prettier Config",
     "main": "index.js",
     "scripts": {
