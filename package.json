@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/naturecodevoid/nature-prettier-config#readme",
     "dependencies": {
-        "prettier": "^1.18.2"
+        "prettier": "^1.19.1"
     }
 }
