@@ -17,3 +17,12 @@ Edit `prettier.config.js`:
 ```javascript
 module.exports = require("nature-prettier-config");
 ```
+
+Or if you want to change some options:
+
+```javascript
+module.exports = {
+    ...require("nature-prettier-config"),
+    otherOption: false
+};
+```
