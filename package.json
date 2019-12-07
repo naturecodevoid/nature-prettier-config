@@ -3,6 +3,7 @@
     "version": "1.0.6",
     "description": "naturecodevoid's Prettier Config",
     "main": "index.js",
+    "bin": "cli.js",
     "scripts": {
         "test": "cd ./test && prettier --config ./prettier.config.test.js ./main.test.js"
     },
@@ -18,5 +19,8 @@
     "homepage": "https://github.com/naturecodevoid/nature-prettier-config#readme",
     "dependencies": {
         "prettier": "^1.19.1"
+    },
+    "devDependencies": {
+        "nature-eslint-config": "^1.0.3"
     }
 }
