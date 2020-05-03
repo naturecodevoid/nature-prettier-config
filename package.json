@@ -1,6 +1,6 @@
 {
     "name": "nature-prettier-config",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "naturecodevoid's Prettier Config",
     "main": "index.js",
     "bin": "cli.js",
@@ -22,5 +22,8 @@
     },
     "devDependencies": {
         "nature-eslint-config": "^1.0.3"
+    },
+    "peerDependencies": {
+        "prettier": ">= 1.19.1"
     }
 }
