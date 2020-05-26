@@ -1,12 +1,12 @@
 {
     "name": "nature-prettier-config",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "naturecodevoid's Prettier Config",
     "main": "index.js",
     "bin": "cli.js",
     "scripts": {
         "test": "cd ./test && prettier --config ./prettier.config.test.js ./main.test.js",
-        "postinstall": "node cli.js"
+        "postinstall": "node cli.js postinstallScript"
     },
     "repository": {
         "type": "git",
