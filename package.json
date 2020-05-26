@@ -5,7 +5,8 @@
     "main": "index.js",
     "bin": "cli.js",
     "scripts": {
-        "test": "cd ./test && prettier --config ./prettier.config.test.js ./main.test.js"
+        "test": "cd ./test && prettier --config ./prettier.config.test.js ./main.test.js",
+        "postinstall": "node cli.js"
     },
     "repository": {
         "type": "git",
