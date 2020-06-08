@@ -1,6 +1,6 @@
 {
     "name": "nature-prettier-config",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "description": "naturecodevoid's Prettier Config",
     "main": "index.js",
     "bin": "cli.js",
